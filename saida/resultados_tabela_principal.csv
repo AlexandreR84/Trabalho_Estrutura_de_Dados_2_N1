@@ -1,0 +1,19 @@
+estrutura,algoritmo,caso,tamanho,tempo_segundos,comparacoes,trocas
+Array,Bubble Sort,Melhor Caso,10000,0.0012724000000616797,9999,0
+Array,Selection Sort,Melhor Caso,10000,4.295429600000034,49995000,0
+Array,Insertion Sort,Melhor Caso,10000,0.0024318000000675966,9999,0
+Lista Ligada,Bubble Sort,Melhor Caso,10000,0.009396599999945465,9999,0
+Lista Ligada,Selection Sort,Melhor Caso,10000,4.326093000000128,49995000,0
+Lista Ligada,Insertion Sort,Melhor Caso,10000,7.925198099999989,49995000,9999
+Array,Bubble Sort,Caso Medio,10000,8.43546860000015,49986872,24875192
+Array,Selection Sort,Caso Medio,10000,4.3259872000001,49995000,9988
+Array,Insertion Sort,Caso Medio,10000,4.606736999999839,24885185,24875192
+Lista Ligada,Bubble Sort,Caso Medio,10000,18.508738199999925,98710128,24875192
+Lista Ligada,Selection Sort,Caso Medio,10000,4.923044399999981,49995000,9988
+Lista Ligada,Insertion Sort,Caso Medio,10000,4.662568100000044,25129798,9999
+Array,Bubble Sort,Pior Caso,10000,13.94057870000006,49995000,49995000
+Array,Selection Sort,Pior Caso,10000,4.444392599999901,49995000,5000
+Array,Insertion Sort,Pior Caso,10000,9.449015700000018,49995000,49995000
+Lista Ligada,Bubble Sort,Pior Caso,10000,29.59408559999997,99990000,49995000
+Lista Ligada,Selection Sort,Pior Caso,10000,4.9802148999999645,49995000,5000
+Lista Ligada,Insertion Sort,Pior Caso,10000,0.008711899999980233,9999,9999
